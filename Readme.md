@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Crack Chat
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+A basic chat app built with Ember.js and Firebase.
